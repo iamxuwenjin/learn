@@ -3,7 +3,7 @@ package leetcode
 
 import (
 	"fmt"
-	"learn/model"
+	"github.com/iamxuwenjin/blog/model"
 )
 
 func step(num int) int {

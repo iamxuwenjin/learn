@@ -1,6 +1,6 @@
 package leetcode
 
-import "learn/model"
+import "github.com/iamxuwenjin/blog/model"
 
 func detectCycle(head *model.Node) *model.Node {
 	ansMap := make(map[*model.Node]bool)

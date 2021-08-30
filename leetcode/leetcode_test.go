@@ -2,7 +2,7 @@ package leetcode
 
 import (
 	"fmt"
-	"model"
+	"github.com/iamxuwenjin/blog/model"
 	"strconv"
 	"testing"
 )

@@ -1,7 +1,7 @@
 package leetcode
 
 import (
-	"learn/model"
+	"github.com/iamxuwenjin/blog/model"
 	"math"
 	"strconv"
 )
