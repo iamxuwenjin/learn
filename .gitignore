@@ -29,3 +29,5 @@ __pycache__
 /logs
 ./venv
 .scannerwork/
+
+.idea
